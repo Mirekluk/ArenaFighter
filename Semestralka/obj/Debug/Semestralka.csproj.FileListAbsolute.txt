@@ -1,0 +1,7 @@
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\bin\Debug\Semestralka.exe.config
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\bin\Debug\Semestralka.exe
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\bin\Debug\Semestralka.pdb
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\obj\Debug\Semestralka.csproj.CoreCompileInputs.cache
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\obj\Debug\Semestralka.exe
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\obj\Debug\Semestralka.pdb
+C:\Users\Mirekluk_NT\source\repos\Semestralka\Semestralka\obj\Debug\Semestralka.csproj.AssemblyReference.cache
